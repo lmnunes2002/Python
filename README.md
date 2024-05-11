@@ -1,7 +1,7 @@
 # Python
 
 Adicionar ao repositorio
-git innit
-git add ou git add.
-git commit -m "initial commit"
-git push / git pull
+\ngit innit
+\ngit add ou git add.
+\ngit commit -m "initial commit"
+\ngit push / git pull
