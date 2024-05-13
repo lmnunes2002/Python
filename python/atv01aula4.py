@@ -1,9 +1,9 @@
 import os
 os.system("cls||clear")
 
-numero = int(input("Digite o número desejado: "))
+numero = float(input("Digite a nota desejado: "))
 
 while numero < 0 or numero > 10:
-    numero = int(input("Digite o número novamente: "))
+    numero = float(input("Digite a nota novamente: "))
 
 print(f"Esse é seu número: {numero}")
